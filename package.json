@@ -1,0 +1,23 @@
+{
+  "name": "vercel1905",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start" : "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioUnifor063/vercel1905.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioUnifor063/vercel1905/issues"
+  },
+  "homepage": "https://github.com/JulioUnifor063/vercel1905#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
